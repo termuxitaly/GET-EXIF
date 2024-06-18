@@ -1,0 +1,23 @@
+🤖 Per estrarre e rimuovere i dati EXIF dalle foto, ci sono diversi strumenti online e software che possono esserti utili.
+
+👉 1. VerExif: 
+Questo sito permette di visualizzare e rimuovere i dati EXIF dalle foto direttamente online. Puoi caricare una foto dal tuo dispositivo o inserire l'URL di una foto pubblica. Non è necessario installare alcun software e il servizio non conserva copie delle foto caricate
+🌐 https://www.verexif.com/it/
+
+👉 2. Omnifile: 
+Questo strumento online è sicuro e non richiede il caricamento dei file, rendendolo molto veloce. Supporta molti formati di immagine e permette sia la visualizzazione che la rimozione dei dati EXIF
+🌐 https://omnifile.co/it/exif/
+
+👉 3. Exif Purge: 
+Un software semplice e portatile per rimuovere i dati EXIF da foto multiple in una sola volta. È utile per chi desidera un'opzione da utilizzare offline su Windows
+🌐 https://angolodiwindows.com/2019/07/dati-exif-che-dati-si-possono-estrarre-da-una-foto/
+
+👉 4. Pixelgarde: 
+Un programma gratuito disponibile per Windows, iPhone e Android, che permette di modificare o rimuovere i dati EXIF. È possibile selezionare quali informazioni eliminare o cancellare tutti i dati in una volta sola
+🌐 https://www.navigaweb.net/2011/09/modificare-o-cancellare-i-dati-exif.html
+
+👉 5. ExifCleaner: 
+Un piccolo programma gratuito che rimuove i metadati dai file, inclusi i dati EXIF da immagini, documenti Word, PDF, video, ecc. È semplice da usare: basta trascinare e rilasciare i file per pulire i metadati
+🌐 https://www.navigaweb.net/2011/09/modificare-o-cancellare-i-dati-exif.html
+
+💡 Questi strumenti ti permetteranno di gestire i dati EXIF delle tue foto, proteggendo la tua privacy e organizzando meglio le tue immagini.
